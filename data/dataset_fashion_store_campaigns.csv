@@ -1,1 +1,8 @@
-
+campaign_id,campaign_name,start_date,end_date,channel,discount_type,discount_value
+1,Spring Flash Sale,1/4/2025,7/4/2025,Email,Percentage,10.00%
+2,Easter Promotion,8/4/2025,15/4/2025,Social Media,Fixed,10
+3,Mother's Day Campaign,1/5/2025,9/5/2025,Email,Percentage,25.00%
+4,Mid-Season Clearance,10/5/2025,19/5/2025,App Mobile,Percentage,30.00%
+5,TIVA Week,20/5/2025,31/5/2025,Social Media,Percentage,30.00%
+6,June Price Drop,1/6/2025,9/6/2025,Website Banner,Percentage,10.00%
+7,Early Summer Deals,10/6/2025,17/6/2025,Email,Fixed,12
