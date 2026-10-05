@@ -53,7 +53,7 @@ The winner: **TIVA Week**, which generated $81K in revenue — nearly 36% of all
 
 I expected Shoes (the #1 category at $70K) to have the highest-revenue SKU. It didn't.
 
-**Relaxed Ribbed Trousers** — a single SKU — generated $2,379K in revenue from just 36 units sold.
+**Relaxed Ribbed Trousers** — a single SKU — generated $2,379 in revenue from just 36 units sold.
 
 That's **one product outperforming an entire category** by 34×. Margin was 47.5%, and it had the lowest inventory investment (36 units). This product is a no-brainer: low inventory, high margin, high volume. Stock it.
 
